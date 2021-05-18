@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap");
+
+:root {
+  --mainBackground: #427bb9;
+  --font: #d2e1e8;
+  --secondaryBackground: #b8deb8;
+  --terciaryBackground: #7f98c0;
+  --optionalBackground: #df96a8;
+}
+
+@media only screen and (min-width: 768px) {
+}
