@@ -21,39 +21,6 @@ body {
   align-content: center;
 }
 
-#navbar {
-  max-width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  overflow: hidden;
-  height: 9em;
-  z-index: 100;
-  background-color: #63c274;
-  display: flex;
-  flex-flow: column nowrap;
-}
-
-#navbar-image {
-  flex: 2 2 3em;
-  overflow: hidden;
-}
-
-#navbar-header {
-  flex: 1 1 3em;
-}
-
-.links {
-  flex: 1 1 3em;
-}
-
-#main-doc {
-  margin-top: 9em;
-}
-
-img {
-  max-width: 1024px;
-}
 
 @media only screen and (min-width: 768px) {
 }
